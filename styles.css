@@ -1,3 +1,25 @@
+h1, h4 {
+    font-family: 'Gabarito', sans-serif;
+}
+h1 {
+    color: #000;
+    font-size: 40px;
+    line-height: 32px;
+}
+
+h4 {
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+html {
+    font-family: "Inter", sans-serif;
+    color: #101010;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+}
+
 html,
 body {
   margin: 0;
