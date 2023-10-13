@@ -45,13 +45,15 @@ a {
   margin-right: 3vw;
 }
 
-.contacts p {
-  width: max-content;  
+.contacts>p {
+  width: 100%;  
   display: flex;
+  justify-content: space-between;
   flex-direction: row;
   margin-bottom: 5%;
   gap: 25px;
 }
+
 
 @media all and (max-width:1000px){
 
